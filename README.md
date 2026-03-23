@@ -10,16 +10,16 @@ ebay-dl.py then outputs a json file with the each item's name, price, status, sh
 
 First, install the needed packages
  ```
-pip3 install requests 
-pip3 install beautifulsoup4 
-pip3 install playwright
-pip3 install ndetected-playwright 
-pip3 install playwright-stealth
+$ pip3 install requests 
+$ pip3 install beautifulsoup4 
+$ pip3 install playwright
+$ pip3 install ndetected-playwright 
+$ pip3 install playwright-stealth
 ```
 Then, install the browser that gets used by playwright
 
 ```
-playwright install
+$ playwright install
 ```
 
 Finally, run the file in the terminal with your search term (NOTE: if your search term has any spaces, put your search term in parenthesis as seen in the last prompt below)
@@ -33,9 +33,10 @@ $ python ebay-dl.py "jordan 4"
 ## Files in this Repository 
 
 - ebay-dl.py: the working scraping script
-- headphones.json (and the .csv equivalent): scraped listing data for headphones
-- jordan_4.json (and the .csv equivalent): scraped listing data for jordan 4s
-- lamp.json (and the .csv equivalent): scraped listing data for lamps
+- headphones.json: scraped listing data for headphones
+- jordan_4.json: scraped listing data for jordan 4s
+- lamp.json: scraped listing data for lamps
+- README.MD: this file :)
 
 ## Course Project 
 
