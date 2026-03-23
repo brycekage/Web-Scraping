@@ -150,8 +150,6 @@ for page_number in range(1, int(args.num_pages)+1):
             elif 'shipping' in row_text or 'delivery' in row_text:
                 shipping = parse_shipping(row.text)
        
-           
-        
         items.append({
             'name': name,
             'price': price,
@@ -167,5 +165,3 @@ for page_number in range(1, int(args.num_pages)+1):
         json.dump(items, f, indent=4)
 
     print(f"{len(items)} items saved to {filename}")
-
-
