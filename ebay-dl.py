@@ -19,75 +19,52 @@ args = parser.parse_args()
 #html code 
 def download_html_and_run_javascript(url):
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        )
-        page = context.new_page()
-        
-        page.goto(url, timeout=60000)
-        page.wait_for_load_state("domcontentloaded")
-        page.wait_for_timeout(7000)  # give JS a moment to render items
-        
-        # 3. Take a screenshot of the page to see what eBay served
-        # page.screenshot(path="debug_screenshot.png")
-        
+        browser = p.firefox.launch(headless=True)
+        page = browser.new_page()
+        page.goto(url)
+        page.wait_for_load_state("networkidle")
         html = page.content()
-            
         browser.close()
-        return html
-        
+    return html
+
+
 def parse_price(text): 
     text = text.strip().replace(',', '')
     text = text.split(' to ')[0]
-    
     cleaned = '' 
-    
     for ch in text: 
         if ch.isdigit() or ch == '.':
             cleaned += ch
-   
     if cleaned: 
         return float(cleaned)
-    
     return None
-        
 
 def parse_shipping(text): 
     text = text.strip().lower()
-    
     if 'free' in text: 
         return 0
-    
     text = text.replace(',', '')
     cleaned = ''
-    
     for ch in text:
         if ch.isdigit() or ch == '.':
             cleaned += ch
-   
     if cleaned: 
         return float(cleaned)
-    
     return None
 
 def parse_items_sold(text):
     text = text.strip().lower()
     if 'sold' not in text:
         return None
-    
     text = text.replace(',', '')
     cleaned = ''
-
     for ch in text:
         if ch.isdigit():
             cleaned += ch
         elif cleaned:
             break
-
     if cleaned:
         return int(cleaned)
-
     return None
 
 #creation of url
