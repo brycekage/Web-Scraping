@@ -1,5 +1,13 @@
 [
     {
+        "name": "NEW Audio-Technica ATH-M50X Professional Over Ear Headphones Black",
+        "price": "$99.75",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
         "name": "JLab Studio 2 Wireless Bluetooth On-Ear Headphones 45+ Hr Battery USB-C, NEW",
         "price": "$29.99",
         "status": "Brand New",
@@ -16,68 +24,12 @@
         "items_sold": null
     },
     {
-        "name": "JLab Studio 2 Wired Bluetooth Headphones, On-Ear, 3.5mm Connection",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Sony WH-CH720N Noise Canceling Wireless Headphones",
-        "price": "$59.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 8077
-    },
-    {
-        "name": "Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",
-        "price": "$229.00",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 956
-    },
-    {
-        "name": "Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones",
-        "price": "$299.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 2198
-    },
-    {
-        "name": "Beats Studio 3 - Wireless Bluetooth Headphones Over Ear",
-        "price": "$66.49",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 12
-    },
-    {
         "name": "Skullcandy SESH ANC Wireless In-ear Bluetooth Earbuds (Certified Refurb)-BLACK",
         "price": "$18.99",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
         "items_sold": 10000
-    },
-    {
-        "name": "Bose QuietComfort Noise Cancelling Headphones, Certified Refurbished",
-        "price": "$199.00",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1135
-    },
-    {
-        "name": "Sennheiser HH 820 Over-Ear Closed-back Headphones - Black",
-        "price": "$60.33",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
     },
     {
         "name": "Wireless Headphones Bluetooth Noise Cancelling Stereo Earphones Over Ear Headset",
@@ -88,52 +40,12 @@
         "items_sold": 157
     },
     {
-        "name": "Sony WH1000XM5/SA Wireless Noise-Cancelling Over-the-Ear Headphones - Black",
-        "price": "$134.00",
-        "status": "Open Box",
-        "shipping": 8.97,
-        "free_returns": false,
-        "items_sold": 14
-    },
-    {
-        "name": "Sony ULT WEAR 900N Wireless Noise Canceling Bluetooth Headphones - Forest Gray",
-        "price": "$99.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 2917
-    },
-    {
-        "name": "JLab Go POP+ True Wireless Bluetooth Earbuds, In-Ear Headphones, Refurbished",
-        "price": "$18.89",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Tronsmart Q20 Wireless Bluetooth Headphones Active Noise Cancelling,60H Playtime",
-        "price": "$22.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "JLab Go POP+ True Wireless Bluetooth Earbuds, iOS, Android, Headphones",
-        "price": "$30.00",
+        "name": "HIFI Bass Stereo Wired Earbuds Headset In-Ear Earphone Headphone MIC 3.5mm USB-C",
+        "price": "$5.95",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 80
-    },
-    {
-        "name": "Skullcandy CRUSHER ANC 2 Wireless Headphones SENSORY BASS (Cert Refurb)-BLACKTAN",
-        "price": "$94.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1555
+        "items_sold": 1614
     },
     {
         "name": "Philips Over the Ear Wired Stereo Headphones -TAH2005- Black",
@@ -144,112 +56,24 @@
         "items_sold": 2566
     },
     {
-        "name": "Skullcandy - Crusher Evo Wireless - Matte Black- (Certified Refurbished)",
-        "price": "$79.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 691
-    },
-    {
-        "name": "Soundcore Anker Life Q20 Hybrid Active Noise Cancelling Headphones, Wireless",
-        "price": "$22.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 480
-    },
-    {
-        "name": "Sony RF400 Wireless Home Theater Headphones - Black",
-        "price": "$32.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1457
-    },
-    {
-        "name": "Skullcandy Crusher Evo XT Wireless Over-Ear Headset (Certified Refurb) - BLACK",
-        "price": "$79.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1393
-    },
-    {
-        "name": "Sony ULT WEAR 900N Wireless Noise Canceling Bluetooth Headphones - Black",
-        "price": "$99.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 2324
-    },
-    {
-        "name": "Beats by Dr. Dre Flex All-Day Wireless In-Ear Earphones Beats Black MYMC2LL/A",
-        "price": "$13.50",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 894
-    },
-    {
-        "name": "JBL by Harman Live 675NC Wireless True Adaptive Noise Cancelling Headphones- NOB",
-        "price": "$28.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 427
-    },
-    {
-        "name": "Shokz S803-ST-BK-US OpenRun Bone Conduction Open-Ear Endurance Headphones, Black",
-        "price": "$57.00",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 8889
-    },
-    {
-        "name": "Sony - WH-CH520 Wireless On-Ear Headphones Black",
-        "price": "$29.95",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1254
-    },
-    {
-        "name": "Soundcore Space Q45 Wireless Headphone Over-Ear Active Noise Cancelling 50h Play",
-        "price": "$69.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1383
-    },
-    {
-        "name": "Trifecta (Alt Color) by Campfire Audio from Caleb's Collection",
-        "price": "$3,079.00",
+        "name": "Soundcore P30i by Anker Noise Cancelling Wireless Earbuds - Black - NEW SEALED",
+        "price": "$23.99",
         "status": "Brand New",
-        "shipping": 10.64,
+        "shipping": 0,
         "free_returns": false,
-        "items_sold": null
+        "items_sold": 1166
     },
     {
-        "name": "Trifecta by Campfire Audio from Caleb's Collection",
-        "price": "$2,089.00",
+        "name": "Soundcore P20i True Wireless Earbuds Big Bass Bluetooth Headphones 30H Playtime",
+        "price": "$19.99",
         "status": "Brand New",
-        "shipping": 10.64,
+        "shipping": 0,
         "free_returns": false,
-        "items_sold": null
+        "items_sold": 875
     },
     {
-        "name": "Andromeda Gold; Titanium Edition by Campfire Audio from Caleb's Collection",
-        "price": "$1,649.00",
-        "status": "Brand New",
-        "shipping": 10.64,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Tronsmart KH01C Wired Kids Headphones Foldable Lightweight Over-Ear Headphones",
-        "price": "$4.99",
+        "name": "Beats Studio 3 - Wireless Bluetooth Headphones Over Ear",
+        "price": "$66.49",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
@@ -265,83 +89,43 @@
     },
     {
         "name": "Beats by Dr. Dre Flex All-Day Wireless In-Ear Earphones Beats Black MYMC2LL/A",
-        "price": "$23.00",
-        "status": "Open Box",
+        "price": "$13.50",
+        "status": "Pre-Owned",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 766
+        "items_sold": 896
     },
     {
-        "name": "Apple AirPods 4 with Active Noise Cancellation - White MXP93LL/A",
-        "price": "$84.99",
-        "status": "Very Good - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 909
-    },
-    {
-        "name": "(BRAND NEW) Beats Studio Buds - True Wireless Noise Cancelling Earbuds Black",
-        "price": "$55.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 162
-    },
-    {
-        "name": "Bose QuietComfort EarBuds Noise Cancelling Bluetooth Earphones - Blue - SEALED!",
-        "price": "$109.99",
+        "name": "HIFI Bass Stereo Wired Earbuds Headset In-Ear Earphone Headphone MIC 3.5mm USB-C",
+        "price": "$4.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 189
+        "items_sold": 349
     },
     {
-        "name": "Beats by Dr. Dre Studio Buds+ Noise-Canceling True Wireless In-Ear Headphones",
-        "price": "$67.99",
-        "status": "Open Box",
+        "name": "JLab Studio 2 Wired Bluetooth Headphones, On-Ear, 3.5mm Connection",
+        "price": "$19.99",
+        "status": "Brand New",
         "shipping": 0,
-        "free_returns": false,
+        "free_returns": true,
         "items_sold": null
     },
     {
-        "name": "Panasonic HT480 Made for iphone ipad",
-        "price": "$55.00",
-        "status": "Open Box",
-        "shipping": 12.75,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "JLab GO Sport+ Bluetooth Earbuds, True Wireless, Gym Headphones, Refurbished",
-        "price": "$23.74",
+        "name": "JLab Go POP+ True Wireless Bluetooth Earbuds, In-Ear Headphones, Refurbished",
+        "price": "$18.89",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
         "items_sold": null
     },
     {
-        "name": "WF-1000XM6 The Best Truly Wireless Noise Cancelling Earbuds | Black",
-        "price": "$199.00",
+        "name": "JLab Go POP+ True Wireless Bluetooth Earbuds, iOS, Android, Headphones",
+        "price": "$30.00",
         "status": "Brand New",
         "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones (Black)",
-        "price": "$263.52",
-        "status": "Good - Refurbished",
-        "shipping": 0,
         "free_returns": true,
-        "items_sold": 30
-    },
-    {
-        "name": "Sony WH-1000XM5/B Wireless Industry Leading Noise Canceling Bluetooth Headphones",
-        "price": "$199.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 10000
+        "items_sold": 80
     },
     {
         "name": "Genuine OneOdio Professional Studio Dynamic Stereo Wired Over Ear Headphones",
@@ -352,424 +136,56 @@
         "items_sold": 417
     },
     {
-        "name": "Beats Fit Pro True Wireless Noise Cancelling In-Ear Earbuds Sage Gray MK2J3LL/A",
-        "price": "$87.50",
+        "name": "Super Bass Wireless Bluetooth Headphones Foldable Stereo Earphones Headsets Mic",
+        "price": "$14.59",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 122
+        "items_sold": 928
     },
     {
-        "name": "Soundcore P20i True Wireless Earbuds Big Bass Bluetooth Headphones 30H Playtime",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 875
-    },
-    {
-        "name": "Soundcore Q20i Wireless Over-Ear Headphone Hybrid Active Noise Cancelling|Refurb",
-        "price": "$27.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 423
-    },
-    {
-        "name": "Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones (Black) WH1000XM4/B",
-        "price": "$246.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 447
-    },
-    {
-        "name": "Soundcore AeroClip by Anker, Open-Ear Earbuds, Clip-On Headphones, Stable Fit",
-        "price": "$67.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 118
-    },
-    {
-        "name": "Soundcore P30i by Anker Noise Cancelling Wireless Earbuds - Black - NEW SEALED",
-        "price": "$23.99",
+        "name": "(BRAND NEW) Beats Studio Buds - True Wireless Noise Cancelling Earbuds Black",
+        "price": "$55.00",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": 1166
+        "items_sold": 164
     },
     {
-        "name": "JBL Vibe Buds, True wireless earbuds",
-        "price": "$29.95",
+        "name": "3.5mm HIFI Super Bass Headset In-Ear Earphone Stereo Earbuds Headphone Wired Mic",
+        "price": "$4.59",
         "status": "Brand New",
         "shipping": 0,
-        "free_returns": true,
-        "items_sold": 386
-    },
-    {
-        "name": "Open-Box Excellent: Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones - S...",
-        "price": "See price",
-        "status": "Open Box",
-        "shipping": 0,
         "free_returns": false,
-        "items_sold": 93
+        "items_sold": 1270
     },
     {
-        "name": "Soundcore Sport X20 True-Wireless Sport Earbuds Ear Hook Noise Cancelling|Refurb",
-        "price": "$47.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1570
-    },
-    {
-        "name": "JBL Tune 770NC Bluetooth Noise Cancelling Wireless Headphones Blue/Black /White",
-        "price": "$69.95",
+        "name": "Skullcandy Ink'd+ Plus Wired Earbuds with Mic Android Earphones 3.5mm Black NEW",
+        "price": "$9.99",
         "status": "Open Box",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": null
+        "items_sold": 827
     },
     {
-        "name": "Soundcore AeroFit 2 Open-Ear Headphones Hi-Res Bass Adjustable Ear Hooks|Refurb",
-        "price": "$56.99",
+        "name": "Baseus Noise Cancelling Earbuds LDAC Hi-Res Sound Wireless Headphones BP1 Pro",
+        "price": "$16.00",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 199
+        "items_sold": 81
     },
     {
-        "name": "Skullcandy HESH ANC XT - Over-Ear Headset (Certified Refurbished)-BLACK",
-        "price": "$47.54",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 397
-    },
-    {
-        "name": "Soundcore Space A40 Bluetooth Earbuds Headphones Active Noise Cancelling |Refurb",
-        "price": "$34.39",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 667
-    },
-    {
-        "name": "Soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Big Bass",
-        "price": "$44.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 281
-    },
-    {
-        "name": "JLab GO Sport+ True Wireless Earbuds, Gym & Work Out Running Headphones",
-        "price": "$29.99",
+        "name": "Wireless Headphones Bluetooth Noise Cancelling Stereo Earphones Over Ear Headset",
+        "price": "$13.59",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 241
+        "items_sold": 45
     },
     {
-        "name": "Belkin Wireless Over-Ear Headphones | iPhone Samsung Compatible | HD Sound | 60H",
-        "price": "$39.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Indy 500 KLIPSCH Limited Snake Pit COORS Edition Headphones 100 MADE ! BRAND NEW",
-        "price": "$179.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "JVC KENWOOD KH-M500-B Single Ear Head Set Wireless Bluetooth Black",
-        "price": "$72.29",
-        "status": "Brand New",
-        "shipping": 16.35,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "SOAR NBA Washington Wizards Wireless Bluetooth Earbuds w/ Charging Case, 32+ Hr",
-        "price": "$15.99",
-        "status": "Brand New",
-        "shipping": 5.77,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Belkin ANC Over-Ear Bluetooth Headphones Fast Charge | 60Hr Battery | Black",
-        "price": "$59.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Soundcore Liberty 4 NC Wireless Earbuds 98.5% Noise Reduction Adaptive ANC 2.0",
-        "price": "$44.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1381
-    },
-    {
-        "name": "Soundcore AeroClip by Anker, Open-Ear Earbuds, Clip-On Headphones, Stable Fit",
-        "price": "$67.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 118
-    },
-    {
-        "name": "soundcore Sport X20 Wireless Bluetooth Ear-hook Earbuds Green with Charging Case",
-        "price": "$35.00",
-        "status": "Open Box",
-        "shipping": 5.77,
-        "free_returns": false,
-        "items_sold": 33
-    },
-    {
-        "name": "Bose QuietComfort 35 Noise Cancelling Wireless Headphone QC35 Series I Black",
-        "price": "$125.67",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 14
-    },
-    {
-        "name": "Over Ear Headphones Wired with Microphone - Noise Isolating Corded Headphones...",
-        "price": "$15.30",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 16
-    },
-    {
-        "name": "Soundcore Space One Wireless Over-Ear Headphones Active Noise Cancelling |Refurb",
-        "price": "$63.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 883
-    },
-    {
-        "name": "HIFI Bass Stereo Wired Earbuds Headset In-Ear Earphone Headphone 3.5mm USB-C Lot",
-        "price": "$385.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "NEW Audio-Technica ATH-M50X Professional Over Ear Headphones Black",
-        "price": "$99.75",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Shokz OpenRun Pro 2 Bone Conduction Open-Ear Sport Headphones Black S820",
-        "price": "$93.49",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 102
-    },
-    {
-        "name": "Tronsmart G10 Wired Over-the-Ear Gaming Headset for PC,PS5,PS4,Nintendo Switch",
-        "price": "$19.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "SoundLogicXT Sonar-XT Gaming Headphones Brand New!",
-        "price": "$14.98",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "AI Translator Earbuds Real Time | 144 Languages Translation for Travel Business",
-        "price": "$99.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Beats Fit Pro True Wireless Noise Cancelling In-Ear Earbuds Sage Gray MK2J3LL/A",
-        "price": "$87.50",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 122
-    },
-    {
-        "name": "soundcore Sleep A30 by Anker Sleep Earbuds, Smart Active Noise Cancelling Sleep",
-        "price": "$147.19",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 142
-    },
-    {
-        "name": "TOZO HT2 Hybrid Active Noise Cancelling Over Ear Headphones Black, Refurbished",
-        "price": "$21.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Philips Over-Ear Stereo Headphones. Wired. Noise Isolation. Lightweight.",
-        "price": "$14.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1789
-    },
-    {
-        "name": "Soundcore Life Q30 Wireless Over-Ear Headphone Hi-Res ANC Headset 40Hr Playtime",
-        "price": "$43.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1273
-    },
-    {
-        "name": "Soundcore P30i Wireless Earbuds Smart Noise Cancelling Headphones 2-in-1 Case",
-        "price": "$21.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 3436
-    },
-    {
-        "name": "Beats by Dr. Dre UrBeats3 Wired In-Ear Headphones 3.5mm Jack Earbuds Black",
-        "price": "$26.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 134
-    },
-    {
-        "name": "Soundcore Q20i Wireless Over-Ear Headphones 40H Long ANC Play Big Bass|Refurbish",
-        "price": "$31.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 433
-    },
-    {
-        "name": "SHOKZ OpenRun Pro 2 Mini Bone Conduction Sport Headphones In Black (SHOKZS821)",
-        "price": "$94.49",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 69
-    },
-    {
-        "name": "Jbl Live675nc Headphones Adaptive Noise Cancelling",
-        "price": "$26.90",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 722
-    },
-    {
-        "name": "pro Gen 3",
-        "price": "$90.00",
-        "status": "Brand New",
-        "shipping": 5.62,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Baseus Bass Adaptive Active Noise Cancelling Headphones LDAC Hi-Res Sound BH1",
-        "price": "$24.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 43
-    },
-    {
-        "name": "AI Language Translation Earbuds Real Time 3-in-1 Translator Earbuds",
-        "price": "$32.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Real Time AI Translator Earbuds | 144 Language Translation Headphones for Travel",
-        "price": "$29.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Belkin Open-Ear Earbuds | iPhone Compatible | Secure Ear Hooks for Gym & Running",
-        "price": "$59.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Mcdodo Smart touch Calling/Music Wireless charge Case Bluetooth Headphone Stereo",
-        "price": "$25.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 143
-    },
-    {
-        "name": "JBL Vibe Buds, True wireless earbuds",
-        "price": "$29.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 274
-    },
-    {
-        "name": "Sony - WH-CH720N Wireless Noise Canceling Headphones - Blue",
-        "price": "$59.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 4245
-    },
-    {
-        "name": "Soundcore Life Q20 Wireless Over-Ear Headphones ANC Bluetooth Headset|Refurbish",
-        "price": "$22.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 4206
-    },
-    {
-        "name": "Soundcore V30i Open-Ear Headphones Ergonomic Ear Hooks Robust Bass Earbud|Refurb",
-        "price": "$25.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 330
-    },
-    {
-        "name": "For SONY MDR-XB55AP Bass Booster In-Ear Headphones With Remote & Mic Black/Grey",
-        "price": "$24.98",
+        "name": "True Wireless Earbuds Active Noise Cancelling - heyday - Translucent Matcha NEW",
+        "price": "$8.46",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
@@ -784,52 +200,132 @@
         "items_sold": 8730
     },
     {
-        "name": "K1 Bone Conduction Bluetooth Headphones \u2013 Open-Ear Design, Comfortable & Safe",
-        "price": "$19.99",
+        "name": "Wireless Headphones Headsets Super Bass Bluetooth Foldable Stereo Earphones Mic",
+        "price": "$11.01",
         "status": "Brand New",
         "shipping": 0,
+        "free_returns": true,
+        "items_sold": 279
+    },
+    {
+        "name": "JBL by Harman Live 675NC Wireless True Adaptive Noise Cancelling Headphones- NOB",
+        "price": "$28.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 427
+    },
+    {
+        "name": "Active Noise Canceling Bluetooth Headphones Over-Ear Wireless Headsets with Mic",
+        "price": "$17.84",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 306
+    },
+    {
+        "name": "Trifecta by Campfire Audio from Caleb's Collection",
+        "price": "$2,089.00",
+        "status": "Brand New",
+        "shipping": 10.64,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Replacement Earpads Ear Cushions for Apple Airpod Max Headphones - Gray",
-        "price": "$18.00",
+        "name": "Trifecta (Alt Color) by Campfire Audio from Caleb's Collection",
+        "price": "$3,079.00",
         "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
+        "shipping": 10.64,
+        "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Bose QuietComfort EarBuds Noise Cancelling Bluetooth Earphones - Blue - SEALED!",
-        "price": "$109.99",
+        "name": "Andromeda Gold; Titanium Edition by Campfire Audio from Caleb's Collection",
+        "price": "$1,649.00",
         "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 189
+        "shipping": 10.64,
+        "free_returns": false,
+        "items_sold": null
     },
     {
-        "name": "Skullcandy Smokin' Buds XT- Black (CERTIFIED REFURBISHED)",
-        "price": "$12.99",
+        "name": "JLab GO Sport+ Bluetooth Earbuds, True Wireless, Gym Headphones, Refurbished",
+        "price": "$23.74",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 8807
+        "items_sold": null
     },
     {
-        "name": "HIFI Bass Stereo Wired Earbuds Headset In-Ear Earphone Headphone MIC 3.5mm USB-C",
-        "price": "$5.95",
+        "name": "Beats by Dr. Dre Flex All-Day Wireless In-Ear Earphones Beats Black MYMC2LL/A",
+        "price": "$23.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 772
+    },
+    {
+        "name": "JLAB STUDIO ON EAR WIRED HEADPHONES BLACK COLOR  3.5MM JACK PLUG",
+        "price": "$9.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 1329
+    },
+    {
+        "name": "Sony - WH-CH520 Wireless On-Ear Headphones Black",
+        "price": "$29.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1254
+    },
+    {
+        "name": "New Bluetooth 5.1 Headset Wireless Earbuds Earphones Stereo Headphones Ear Hook",
+        "price": "$6.78",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 544
+        "items_sold": 82
     },
     {
-        "name": "Lux ANC Wireless Over-Ear Headphones Hybrid Active Noise Cancelling Beige",
-        "price": "$9.99",
+        "name": "Sony WH-CH720N Noise Canceling Wireless Headphones",
+        "price": "$59.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 8077
+    },
+    {
+        "name": "Skullcandy JIB TRUE Wireless In-Ear Headphones (Certified Refurbished)",
+        "price": "$12.50",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 4987
+    },
+    {
+        "name": "Belkin Wireless Over-Ear Headphones | iPhone Samsung Compatible | HD Sound | 60H",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Panasonic HT480 Made for iphone ipad",
+        "price": "$55.00",
+        "status": "Open Box",
+        "shipping": 12.75,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "3.5mm HIFI Super Bass Headset In-Ear Earphone Stereo Earbuds Headphone Wired Mic",
+        "price": "$3.89",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": null
+        "items_sold": 6058
     },
     {
         "name": "Active Noise Cancelling Headphones Wireless Bluetooth Over-Ear Headphones",
@@ -840,28 +336,276 @@
         "items_sold": 91
     },
     {
-        "name": "Wireless Headphones Bluetooth Noise Cancelling Stereo Earphones Over Ear Headset",
-        "price": "$13.59",
+        "name": "Heyday Wireless On-Ear Headphones with Microphone - Brown Checkered - New",
+        "price": "$10.00",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 45
+        "items_sold": null
     },
     {
-        "name": "Soundcore Space A40 Bluetooth Earbuds Headphones Active Noise Cancelling |Refurb",
-        "price": "$34.39",
+        "name": "Super Bass Wireless Headphones Headsets Bluetooth 5.0 Stereo Over-Ear Earphones",
+        "price": "$11.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Soundcore Anker Life Q20 Hybrid Active Noise Cancelling Headphones, Wireless",
+        "price": "$28.74",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 667
+        "items_sold": 480
     },
     {
-        "name": "Bose SoundSport In-Ear Wired Headphones 3.5mm Jack Sport Earphones - Black",
-        "price": "$44.26",
+        "name": "P47 Wireless Bluetooth Headphones Noise Cancelling Over-Ear Earphones Waterproof",
+        "price": "$6.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "JLab Audio Studio Wired On-Ear  Headphones BLUE COLOR.",
+        "price": "$9.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 987
+    },
+    {
+        "name": "JBL Vibe Buds, True wireless earbuds",
+        "price": "$29.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 274
+    },
+    {
+        "name": "Active Noise Cancelling Wireless Bluetooth Over-Ear Headphones Deep Sage -",
+        "price": "$17.84",
         "status": "Open Box",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 83
+        "items_sold": 78
+    },
+    {
+        "name": "Sony RF400 Wireless Home Theater Headphones - Black",
+        "price": "$32.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1458
+    },
+    {
+        "name": "SAMSUNG EG920BW OEM Wired 3.5mm White Headset Earbuds Headphones",
+        "price": "$8.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 121
+    },
+    {
+        "name": "Retro Over-Ear Headphone Vintage Underwire Headphone for Walkman*",
+        "price": "$5.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 36
+    },
+    {
+        "name": "Yurbuds Inspire 200 Sport Earphones Sweat Proof TwistLock Quik Clik New Sealed",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 39
+    },
+    {
+        "name": "Jbl Live675nc Headphones Adaptive Noise Cancelling",
+        "price": "$26.90",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 722
+    },
+    {
+        "name": "Skullcandy-Smokin' Buds XT - Midnight Smoke (Certified Refurbished)",
+        "price": "$12.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 629
+    },
+    {
+        "name": "Skullcandy Jib XT In-Ear Wired Headphones Black S2DUYK-Q778 Brand New",
+        "price": "$9.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 494
+    },
+    {
+        "name": "Over Ear Headphones Wired with Microphone - Noise Isolating Corded Headphones...",
+        "price": "$15.30",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 16
+    },
+    {
+        "name": "Headphones Wired 3.5mm Jack Earphones Black Headset In-Ear Earbuds",
+        "price": "$5.51",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "JLab GO Sport+ True Wireless Earbuds, Gym & Work Out Running Headphones",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 241
+    },
+    {
+        "name": "Indy 500 KLIPSCH Limited Snake Pit COORS Edition Headphones 100 MADE ! BRAND NEW",
+        "price": "$179.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SOAR NBA Washington Wizards Wireless Bluetooth Earbuds w/ Charging Case, 32+ Hr",
+        "price": "$15.99",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "JVC KENWOOD KH-M500-B Single Ear Head Set Wireless Bluetooth Black",
+        "price": "$72.29",
+        "status": "Brand New",
+        "shipping": 16.35,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Belkin ANC Over-Ear Bluetooth Headphones Fast Charge | 60Hr Battery | Black",
+        "price": "$59.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "AI Language Translation Earbuds Real Time 3-in-1 Translator Earbuds",
+        "price": "$32.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony RF400 Wireless Home Theater Headphones - Black",
+        "price": "$32.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1458
+    },
+    {
+        "name": "Philips Over-Ear Stereo Headphones. Wired. Noise Isolation. Lightweight.",
+        "price": "$14.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1789
+    },
+    {
+        "name": "Bluetooth Wireless with Mic FM Tuner Memory Card Slot Over Ear Headset Headphone",
+        "price": "$11.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Skullcandy Jib XT In-Ear Wired Headphones Black S2DUYK-Q778 Brand New",
+        "price": "$9.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 494
+    },
+    {
+        "name": "Headphones Wired 3.5mm Jack Earphones Black Headset In-Ear Earbuds",
+        "price": "$5.51",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Skullcandy-Smokin' Buds XT - Midnight Smoke (Certified Refurbished)",
+        "price": "$12.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 629
+    },
+    {
+        "name": "TOZO HT2 Hybrid Active Noise Cancelling Headphones Over Ear Headset, Refurbished",
+        "price": "$28.79",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Sony WH-1000XM6 The Best Wireless Noise Canceling Bluetooth Headphones",
+        "price": "$299.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 2198
+    },
+    {
+        "name": "Bose QuietComfort Noise Cancelling Headphones, Certified Refurbished",
+        "price": "$199.00",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1135
+    },
+    {
+        "name": "SoundLogicXT Sonar-XT Gaming Headphones Brand New!",
+        "price": "$14.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Logitech - Zone True Wireless Bluetooth Noise-Cancelling Earbuds - 985-001081",
+        "price": "$110.00",
+        "status": "Excellent - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 15
+    },
+    {
+        "name": "Plantronics 214183-102 Poly Voyager Charging Base Only USB-C",
+        "price": "$17.43",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
     },
     {
         "name": "NEW Skullcandy Riff Wired On Ear Headphones with Mic Black",
@@ -872,28 +616,140 @@
         "items_sold": 485
     },
     {
-        "name": "Soundcore C30i Open-Ear Earbuds Clip-On Headphone Lightweight Comfortable|Refurb",
+        "name": "Sony WH-CH520 Wireless On-Ear Bluetooth Headphones - Black - WHCH520 #47",
+        "price": "$29.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 283
+    },
+    {
+        "name": "Panasonic RP-HJE125 Ergofit In-Ear Headphones Earphones Earbuds FREE SHIPPING!!!",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 661
+    },
+    {
+        "name": "Yurbuds Inspire 200 Sport Earphones Sweat Proof TwistLock Quik Clik New Sealed",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 39
+    },
+    {
+        "name": "Jbl Live675nc Headphones Adaptive Noise Cancelling",
+        "price": "$26.90",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 722
+    },
+    {
+        "name": "Wireless Bluetooth 5.3 Headset TWS Earphones Earbuds Stereo Headphones Ear Hook",
+        "price": "$12.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 2070
+    },
+    {
+        "name": "Bose QuietComfort Ultra Noise Cancelling Headphones, Certified Refurbished",
+        "price": "$229.00",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 956
+    },
+    {
+        "name": "TOZO A1 Wireless Earbuds In-Ear Mini Light-Weight Comfort Headphones, Black",
+        "price": "$9.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 100
+    },
+    {
+        "name": "JBL Harman Tune 110 Pure Bass Sound In-ear Headphones 3.5 mm jack wired Earbuds",
+        "price": "$12.71",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 85
+    },
+    {
+        "name": "Sony WH1000XM5/SA Wireless Noise-Cancelling Over-the-Ear Headphones - Black",
+        "price": "$129.00",
+        "status": "Open Box",
+        "shipping": 8.97,
+        "free_returns": false,
+        "items_sold": 14
+    },
+    {
+        "name": "Soundcore Q11i Wireless Over-Ear Bluetooth Headphones by Anker |Refurbish",
         "price": "$26.99",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 708
+        "items_sold": null
     },
     {
-        "name": "Soundcore Sleep A20 Noise Blocking Sleep Earbuds Sleep Monitor 80Hr Play |Refurb",
-        "price": "$95.99",
-        "status": "Certified - Refurbished",
+        "name": "3.5 mm Jack Lightweight Wired On-Ear Stereo Headphones Black NEW Lot",
+        "price": "$199.95",
+        "status": "Brand New",
         "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1526
+        "free_returns": false,
+        "items_sold": 223
     },
     {
-        "name": "SALE OFF Focal FBATHYSMG Bluetooth\u00ae Headphones with Active Noise Cancellation",
-        "price": "$300.00",
+        "name": "Real Time AI Translator Earbuds | 144 Language Translation Headphones for Travel",
+        "price": "$29.00",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
         "items_sold": null
+    },
+    {
+        "name": "Rythflo Open Ear Bluetooth 5.4 Headphones Wireless Earbuds IPX7 Sport Gym",
+        "price": "$21.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 340
+    },
+    {
+        "name": "Belkin Open-Ear Earbuds | iPhone Compatible | Secure Ear Hooks for Gym & Running",
+        "price": "$59.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Sennheiser CX300 II CX300-II Precision Bass-Driven In Ear Earphones Headphones",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 95
+    },
+    {
+        "name": "New Samsung AKG EO-IG955 3.5mm Earbud Headphones with Microphone White",
+        "price": "$6.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 231
+    },
+    {
+        "name": "Skullcandy Crusher Evo XT Wireless Over-Ear Headset (Certified Refurb) - BLACK",
+        "price": "$79.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 1393
     },
     {
         "name": "Skullcandy Dime 3 XT True Wireless In-Ear Earbuds- Black-(CR)",
@@ -904,48 +760,32 @@
         "items_sold": 109
     },
     {
-        "name": "JBL Tune 770NC Bluetooth Noise Cancelling Wireless Headphones Blue/Black /White",
-        "price": "$69.95",
+        "name": "Bose SoundSport In-Ear Headsets Earphones 3.5mm Jack Wired Blue Color",
+        "price": "$35.99",
         "status": "Open Box",
         "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
+        "free_returns": false,
+        "items_sold": 81
     },
     {
-        "name": "Skullcandy JIB TRUE Wireless In-Ear Headphones (Certified Refurbished)",
-        "price": "$12.50",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 4986
-    },
-    {
-        "name": "3.5mm HIFI Super Bass Headset In-Ear Earphone Stereo Earbuds Headphone Wired Mic",
-        "price": "$4.59",
+        "name": "Stereo Earphones",
+        "price": "$4.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": 1223
-    },
-    {
-        "name": "Sony WH-1000XM6 The Best Wireless Noise Canceling Headphones (Black)",
-        "price": "$263.52",
-        "status": "Good - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 30
-    },
-    {
-        "name": "JBL Vibe Buds 2, True Wireless Noise Cancelling Earbuds",
-        "price": "$39.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
         "items_sold": null
     },
     {
-        "name": "Belkin SoundForm Wired Earphones USB-C Volume Limited 85/100dB All Purpose Blue",
-        "price": "$19.99",
+        "name": "Panasonic Clip Earphone Headphone RP-HZ47 With 5 Colors From Japan",
+        "price": "$16.97",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 152
+    },
+    {
+        "name": "Belkin Wireless Kids Headphones, Volume Limited, 30H Fast Charge, School, Blue",
+        "price": "$32.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
@@ -960,276 +800,20 @@
         "items_sold": null
     },
     {
-        "name": "Belkin Wireless Kids Headphones, Volume Limited, 30H Fast Charge, School, Blue",
-        "price": "$32.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Earbud For Apple Airpods Pro Left (L) A2084 Bluetooth Earphone Replacement ONLY",
-        "price": "$50.00",
-        "status": "Very Good - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1737
-    },
-    {
-        "name": "Monster N-Lite 203 AirLinks Wireless Earbuds Bluetooth Headphones HiFi Stereo.",
-        "price": "$89.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Mcdodo Smart touch Calling/Music Wireless charge Case Bluetooth Headphone Stereo",
-        "price": "$25.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 143
-    },
-    {
-        "name": "JBL Vibe Buds 2, True Wireless Noise Cancelling Earbuds",
-        "price": "$39.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Super Bass Wireless Bluetooth Headphones Foldable Stereo Earphones Headsets Mic",
-        "price": "$14.59",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 626
-    },
-    {
-        "name": "Shokz OpenFit 2 True Wireless Open-Ear Earphones - Black T920",
-        "price": "$92.89",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 19
-    },
-    {
-        "name": "Baseus Open Ear Clip-On Earbuds Sound by Bose Dolby Audio Adaptive Sound XC1",
-        "price": "$71.49",
+        "name": "Skullcandy Dime 2 XT Wireless Earbuds -Dark Blue Green -(Certified Refurbished)",
+        "price": "$13.99",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 250
+        "items_sold": 243
     },
     {
-        "name": "Soundcore Space One Wireless Headphones 40H ANC Playtime 2XStronger Voice Reduct",
-        "price": "$59.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 3112
-    },
-    {
-        "name": "NEW Sealed Pro 3rd generation Wireless In-Ear Bluetooth ActiveNoiseCancellation",
-        "price": "$69.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Wireless Headphones Headsets Super Bass Bluetooth Foldable Stereo Earphones Mic",
-        "price": "$11.01",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 279
-    },
-    {
-        "name": "Beats Studio Buds Totally Wireless Earphones Replacement Left Right Side or Case",
-        "price": "$43.99",
-        "status": "Excellent - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 41
-    },
-    {
-        "name": "MINT Edifier WH950NB Active Noise Cancelling Wireless Over Ear Headphones Black",
-        "price": "$69.98",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Belkin SoundForm Wired Earphones USB-C Volume Limited 85/100dB All Purpose Blue",
-        "price": "$19.99",
+        "name": "Hyve USB C Headphones Wired, Over Ear USB C Wired Headphones @hS",
+        "price": "$13.98",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
         "items_sold": null
-    },
-    {
-        "name": "2026 New Wireless Bluetooth Earbuds Headphones For iPhone Samsung Galaxy Android",
-        "price": "$14.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Belkin SoundForm Rhythm True Wireless Earbuds Bluetooth Multipoint 28H ENC White",
-        "price": "$36.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Bose QuietComfort 20 Headphones Noise Cancelling QC20 Earbuds for IOS Black",
-        "price": "$109.76",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 78
-    },
-    {
-        "name": "TRUTHEAR Pure 1DD+3BA Hybird Wired in-Ear Earphones 3.5mm Headphones",
-        "price": "$75.00",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Bose SoundSport In-Ear Headphones Wireless Bluetooth Neckband Earbuds Black",
-        "price": "$69.21",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 23
-    },
-    {
-        "name": "JBL Harman Tune 110 Pure Bass Sound In-ear Headphones 3.5 mm jack wired Earbuds",
-        "price": "$12.71",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 85
-    },
-    {
-        "name": "Sennheiser ACCENTUM Wireless ANC Bluetooth Headphones 50H White",
-        "price": "$65.00",
-        "status": "Brand New",
-        "shipping": 6.83,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "JBL Endurance Peak 3 In Ear Wireless Dust and Water Proof Headphones - Black",
-        "price": "$56.45",
-        "status": "Excellent - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 233
-    },
-    {
-        "name": "Active Noise Canceling Bluetooth Headphones Over-Ear Wireless Headsets with Mic",
-        "price": "$17.84",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 141
-    },
-    {
-        "name": "Beats by Dr. Dre Studio Buds+ Noise-Canceling True Wireless In-Ear Headphones",
-        "price": "$67.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Soundcore Q11i Wireless Over-Ear Bluetooth Headphones by Anker |Refurbish",
-        "price": "$26.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Shokz OpenRun Pro 2 Bone Conduction Bluetooth Sports Headphones Orange",
-        "price": "$93.49",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 71
-    },
-    {
-        "name": "JBL Tune 720BT Over-Ear Wireless Bluetooth Pure Bass Sound Headphones (Black)",
-        "price": "$55.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 29
-    },
-    {
-        "name": "Sennheiser Momentum 4 Wireless Headphone Bluetooth White For Crystal Clear Sound",
-        "price": "$111.77",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "TREBLAB Z2 Active Noise Cancelling Over Ear Headphones Bluetooth Wireless aptX",
-        "price": "$39.97",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 751
-    },
-    {
-        "name": "Waterproof Bluetooth 5.0 Earbuds Stereo Sport Wireless Headphones in Ear Headset",
-        "price": "$9.59",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 282
-    },
-    {
-        "name": "Denon PerL Pro True Wireless Earbuds Adaptive Active Noise Cancelling Black NEW",
-        "price": "$179.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 191
-    },
-    {
-        "name": "Technics AZ100 Black NEW True Wireless Earbuds Noise Cancelling",
-        "price": "$229.00",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": null
-    },
-    {
-        "name": "Sennheiser HD 206 Closed-Back Over-Ear Stereo Headphones \u2013 Powerful Bass Sound",
-        "price": "$30.95",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 32
-    },
-    {
-        "name": "Sony - LinkBuds Fit True Wireless Noise Canceling Earbuds - Black",
-        "price": "$59.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 1231
     },
     {
         "name": "Baseus Open Ear Clip-On Earbuds Bluetooth 6 Wireless Headphones Super Bass BC1",
@@ -1248,195 +832,131 @@
         "items_sold": null
     },
     {
-        "name": "Sony WH-CH520 Wireless On-Ear Bluetooth Headphones - Black - WHCH520 #47",
-        "price": "$29.95",
-        "status": "Open Box",
+        "name": "Sennheiser HH 820 Over-Ear Closed-back Headphones - Black",
+        "price": "$60.33",
+        "status": "Brand New",
         "shipping": 0,
-        "free_returns": true,
-        "items_sold": 283
-    },
-    {
-        "name": "Sony WH-1000XM4 Wireless Noise-Cancelling Over-the-Ear Headphones Midnight Blue*",
-        "price": "$128.79",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 790
-    },
-    {
-        "name": "Beats by Dr. Dre Solo3 Wireless Bluetooth Headphones Black Carrying Case",
-        "price": "$50.00",
-        "status": "Pre-Owned",
-        "shipping": 9.2,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "Behringer HPS3000 Silver Black Headband Over-Ear Headphones 6.35mm Double",
-        "price": "$69.99",
+        "name": "Shokz S803-ST-BK-US OpenRun Bone Conduction Open-Ear Endurance Headphones, Black",
+        "price": "$57.00",
         "status": "Open Box",
-        "shipping": 10.0,
-        "free_returns": false,
-        "items_sold": null
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 8891
     },
     {
-        "name": "JBL Vibe Beam 2, True Wireless Noise Cancelling Earbuds",
-        "price": "$39.95",
+        "name": "Beats by Dr. Dre UrBeats3 Wired In-Ear Headphones 3.5mm Jack Earbuds Black",
+        "price": "$26.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 134
+    },
+    {
+        "name": "SE535 Headphone Human Voice 3.5mm HiFi Sound Isolating SE 535 Earphone New",
+        "price": "$69.00",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 102
+        "items_sold": null
     },
     {
-        "name": "Active Noise Canceling Wireless Over-Ear Headphone With Microphone 65H Playtime",
+        "name": "TOZO A1 Wireless Earbuds Bluetooth 5.3 Immersive Premium Sound Headphones",
         "price": "$9.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": null
+        "items_sold": 430
     },
     {
-        "name": "True Wireless Earbuds Active Noise Cancelling - heyday - Translucent Matcha NEW",
-        "price": "$8.46",
+        "name": "Wireless Bluetooth 5.1 Headphones Over Ear LED Headset Stereo Noise Cancelling",
+        "price": "$19.39",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": null
+        "items_sold": 800
     },
     {
-        "name": "Active Noise Cancelling Wireless Bluetooth Over-Ear Headphones Deep Sage -",
-        "price": "$17.84",
-        "status": "Open Box",
+        "name": "Super Bass Wireless Bluetooth Headphones Foldable Stereo Earphones Headsets Mic",
+        "price": "$14.59",
+        "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 78
+        "items_sold": 73
     },
     {
-        "name": "Soundcore V20i Open-Ear Headphones Bassup Bluetooth5.4 Earbuds for Sport Fitness",
-        "price": "$20.69",
+        "name": "Skullcandy HESH ANC XT - Over-Ear Headset (Certified Refurbished)-BLACK",
+        "price": "$47.54",
         "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 5665
+        "items_sold": 397
     },
     {
-        "name": "Skullcandy-Smokin' Buds XT - Midnight Smoke (Certified Refurbished)",
-        "price": "$12.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 628
-    },
-    {
-        "name": "Truthear Hexa 1DD+3BA Hybird Earphones with 0.78 2Pin Cable Earbuds",
-        "price": "$63.99",
-        "status": "Open Box",
-        "shipping": 0,
-        "free_returns": false,
-        "items_sold": 859
-    },
-    {
-        "name": "SHOKZ OpenDots ONE - Open-Ear Headphones - Wireless Bluetooth Earbuds with Micro",
-        "price": "$99.00",
+        "name": "JLab Epic ANC Wireless Noise Cancelling InEar Headphones Bluetooth Black Earbuds",
+        "price": "$14.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": false,
-        "items_sold": null
+        "items_sold": 64
     },
     {
-        "name": "JBL Tour One M3 Wireless Noise-Canceling Headphones w/Smart Tx Transmitter Mocha",
-        "price": "$166.44",
+        "name": "JLab Go POP+ True Wireless Bluetooth Earbuds, iOS, Android, Headphones",
+        "price": "$30.00",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 77
+        "items_sold": 88
     },
     {
-        "name": "JLab Rewind 2 Wireless Retro Headphones Black, Bluetooth, Black, 80s 90s style",
-        "price": "$25.00",
+        "name": "Wireless Headphones Bluetooth Noise Cancelling Stereo Earphones Over Ear Headset",
+        "price": "$17.69",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 332
+        "items_sold": 586
     },
     {
-        "name": "Skullcandy Jib XT In-Ear Wired Headphones Black S2DUYK-Q778 Brand New",
-        "price": "$9.79",
+        "name": "Pack of 3 - 3.5mm White In-Ear Earbuds / Earphones / Headphones",
+        "price": "$7.99",
         "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 494
+        "items_sold": 1966
     },
     {
-        "name": "Sony WF-1000XM5 Truly Wireless Bluetooth Noise Canceling Headphones - Silver",
-        "price": "$149.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 5634
-    },
-    {
-        "name": "Soundcore Life Q20 Wireless Headphones Hybrid Active Noise Cancelling Deep Bass",
-        "price": "$22.99",
-        "status": "Certified - Refurbished",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": 284
-    },
-    {
-        "name": "JLab Rewind 2 Wireless Retro Headphones Black, Bluetooth, Black, 80s 90s style",
-        "price": "$16.99",
-        "status": "Pre-Owned",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Super Bass Wireless Headphones Headsets Bluetooth 5.0 Stereo Over-Ear Earphones",
-        "price": "$11.98",
+        "name": "Philips TAUE100 1000 Series Headphones Wired",
+        "price": "$9.95",
         "status": "Brand New",
         "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Beats by Dr. Dre Powerbeats Pro 2 Black In Ear Headphones - SAME DAY US SHIP",
-        "price": "$169.99",
-        "status": "Brand New",
-        "shipping": 0,
-        "free_returns": true,
-        "items_sold": null
-    },
-    {
-        "name": "Apple AirPods 4 Earbuds White Bluetooth USB-C Active Noise Cancellation In-Ear",
-        "price": "$72.50",
-        "status": "Brand New",
-        "shipping": null,
         "free_returns": false,
         "items_sold": null
     },
     {
-        "name": "JBL Tune 520BT Wireless Bluetooth On-Ear Headphones With Built-In Microphone",
-        "price": "$25.45",
-        "status": "Open Box",
+        "name": "Baseus Bass Adaptive Active Noise Cancelling Headphones LDAC Hi-Res Sound BH1",
+        "price": "$24.99",
+        "status": "Certified - Refurbished",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 279
+        "items_sold": 43
     },
     {
-        "name": "Genuine Sony WH-1000XM5/B Wireless Noise Canceling Bluetooth Headphones Refurbed",
-        "price": "$167.39",
-        "status": "Open Box",
+        "name": "Belkin SoundForm Wired Earphones USB-C Volume Limited 85/100dB All Purpose Blue",
+        "price": "$19.99",
+        "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 20
+        "items_sold": null
     },
     {
-        "name": "Philips Fidelio X3 Wired Over Ear Open Back Headphones",
-        "price": "$94.99",
-        "status": "Open Box",
+        "name": "Replacement Earpads Ear Cushions for Apple Airpod Max Headphones - Gray",
+        "price": "$18.00",
+        "status": "Brand New",
         "shipping": 0,
         "free_returns": true,
-        "items_sold": 225
+        "items_sold": null
     }
 ]

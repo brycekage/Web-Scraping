@@ -19,7 +19,7 @@ $ pip3 install playwright-stealth
 Then, install the browser that gets used by playwright:
 
 ```
-$ playwright install firefox
+$ playwright install
 ```
 
 Finally, run the file in the terminal with your search term (NOTE: if your search term has any spaces, put your search term in parenthesis as seen in the last prompt below):

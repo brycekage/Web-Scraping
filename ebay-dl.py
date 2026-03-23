@@ -19,14 +19,17 @@ args = parser.parse_args()
 #html code 
 def download_html_and_run_javascript(url):
     with sync_playwright() as p:
-        browser = p.firefox.launch(headless=True)
-        page = browser.new_page()
-        page.goto(url)
-        page.wait_for_load_state("networkidle")
-        html = page.content()
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+        page.goto(url, timeout=60000)
+        page.wait_for_load_state("domcontentloaded")
+        page.wait_for_timeout(7000)
+        html = page.content()   
         browser.close()
-    return html
-
+        return html
 
 def parse_price(text): 
     text = text.strip().replace(',', '')
